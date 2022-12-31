@@ -1,2 +1,7 @@
-.DS_Store
+# don't track music files
 files/
+
+# don't track these either
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
